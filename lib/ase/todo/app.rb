@@ -15,11 +15,10 @@ module Ase
 
         def cmp
           @cmp ||= Ase::Todo::Cmp
-          @cmp
         end
 
         def repo
-          @cmp.repo
+          @repo ||= cmp.repo
         end
 
         def add_task(title)
