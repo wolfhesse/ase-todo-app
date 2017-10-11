@@ -1,3 +1,8 @@
+Version 0.2.0:
+ - Merge branch 'test-ase-todo-cmp'
+ - wp
+ - green w/ App.add_task, App.clear, App.repo
+
 Version 0.1.0
  - initial
 
