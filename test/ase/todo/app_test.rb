@@ -23,6 +23,7 @@ class Ase::Todo::AppTest < Minitest::Test
     Ase::Todo::App.clear
     Ase::Todo::App.add_task('testing 2')
     Ase::Todo::App.add_task('testing 2')
+    # expect this to fail...
     assert_same(1, Ase::Todo::App.repo.count)
   end
 end
