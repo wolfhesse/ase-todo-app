@@ -4,3 +4,8 @@ source "https://rubygems.org"
 gemspec
 
 gem 'ase-todo-cmp', github: 'wolfhesse/ase-todo-cmp'
+
+group :development do
+  gem 'pry'
+  gem 'hashie'
+end
