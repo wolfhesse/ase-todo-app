@@ -1,0 +1,45 @@
+<RestClientRequest>
+  <option name="biscuits">
+    <list>
+      <Biscuit>
+        <option name="date" value="1510175595000" />
+        <option name="domain" value="sms-back-test.base.wolfspool.at" />
+        <option name="name" value="XDEBUG_SESSION" />
+        <option name="path" value="/" />
+        <option name="value" value="PHPSTORM" />
+      </Biscuit>
+    </list>
+  </option>
+  <option name="httpMethod" value="GET" />
+  <option name="urlBase" value="http://sms-back-test.base.wolfspool.at" />
+  <option name="urlPath" value="/api/products" />
+  <option name="headers">
+    <list>
+      <KeyValuePair>
+        <option name="key" value="Accept" />
+        <option name="value" value="*/*" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Cache-Control" />
+        <option name="value" value="no-cache" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="Authorization" />
+        <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjcxNGM0Mjg2NGI0ZmM0MmJkYWZlNjVmNGIyZTY1NjFjMTAzZTYzNWM0YmUxNWRhYmE4NGI2ZDkxNTI4ODZhNDMzZTBlMWFjZWNjODhiZmMxIn0.eyJhdWQiOiI3IiwianRpIjoiNzE0YzQyODY0YjRmYzQyYmRhZmU2NWY0YjJlNjU2MWMxMDNlNjM1YzRiZTE1ZGFiYTg0YjZkOTE1Mjg4NmE0MzNlMGUxYWNlY2M4OGJmYzEiLCJpYXQiOjE1MTAxNzE2MDQsIm5iZiI6MTUxMDE3MTYwNCwiZXhwIjoxNTQxNzA3NjA0LCJzdWIiOiIxIiwic2NvcGVzIjpbIioiXX0.E6ogfPZwgFzy3lWXKUPbCzZ5Vrk8SWT9Zl-THSOXAmFTMabwLSP0cP_hrCel6H70lSsud7AhZ0MWLA4PZRe4K3mK1wZLIDzvsMENQGFLRwhd0MMkVrQTNqTXDCK0mOSzW-gklVi7rnGWcCXahoaXTEZxDuCqKo37ktUgmPEIBm96QjKf9PknwWMAMiLTpFzWW46LVx6W2ucV4RQa__ZLc3JYw27sSRC3JvOK6yrl6UlSzn6ViTUhcg45SoCp5kAgyk0bA0C_6rO6t7quXgD6qU7MvPPrOjHU-OvcQY64IGfpa5MZp8LcnuVK18Ys7NOMmvnd9J5rKIAUlXogrQUoZdoOIPhDW-H6wXgoI_5GlUOvaxvSxzZ2AQFW4RHTO_3iOe-hYYFHR31nn8AC66GVNcs70MdOAVvPf43qZzMSnCYBwRugYw_MOfbJGjYeTwflOXyoT6RnLvqMoMHVhmCkFe-aP-j4mVw0H-4Pmn5w0jbMDg0tRmUCNwnVwy7oH4spgX8ConrzzKK_UAZnh6ejNUJwXJhc771ptfCmViEmPgv2HKDnOiiMH-dEfZkVFhvTboWIoa2Mzp_jS9OpDJ2cF2mxNUyg-qGyPS3Lr58K3uKuIMDLcyY674CFjSsyxBUWaEwr3nX-YrnhX4J555aDSi0CU_3_m0DjSSfEQ5xEjgo" />
+      </KeyValuePair>
+      <KeyValuePair>
+        <option name="key" value="XDEBUG_SESSION" />
+        <option name="value" value="PHPSTORM" />
+      </KeyValuePair>
+    </list>
+  </option>
+  <option name="parameters">
+    <list />
+  </option>
+  <option name="parametersEnabled" value="true" />
+  <option name="haveTextToSend" value="false" />
+  <option name="haveFileToSend" value="false" />
+  <option name="isFileUpload" value="false" />
+  <option name="textToSend" value="" />
+  <option name="filesToSend" value="" />
+</RestClientRequest>
