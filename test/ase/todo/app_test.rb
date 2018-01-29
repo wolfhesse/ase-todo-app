@@ -5,11 +5,6 @@ class Ase::Todo::AppTest < Minitest::Test
     refute_nil ::Ase::Todo::App::VERSION
   end
 
-  # def test_it_does_something_useful
-  #   assert false
-  # end
-
-
   def test_the_component_stores_tasks
     Ase::Todo::Cmp.clear
     Ase::Todo::Cmp.add_task('testing 1')
