@@ -10,6 +10,23 @@ Version 0.1.4:
  - r20171025.tactics : contains tests which fail to route aufmerksamkeit :konzentrationspunkt
 
 Version 0.2.0:
+ - develop: build 0.2.0 to dist
+ - Version bump to 0.1.3
+
+Version 0.1.3:
+
+
+Version 0.1.3:
+ - pull rebase
+ - wp
+ - playing csv in :scratch
+ - :build 0.1.3
+ - move gems out of the way adapt gemspec to refer to github
+ - :build app
+ - bump 0.1.1
+ - r20171025.tactics : contains tests which fail to route aufmerksamkeit :konzentrationspunkt
+
+Version 0.2.0:
  - Merge branch 'test-ase-todo-cmp'
  - wp
  - green w/ App.add_task, App.clear, App.repo
